@@ -3,7 +3,7 @@ export default {
     description: 'Guia de como se transformar no profissional do futuro',
     base: '/curso/',
     themeConfig: {
-        logo: './bg.png',
+        logo: '/bg.png',
         outlineTitle: 'Nesta Página',
         nav: [
           { text: 'YouTube', link: 'https://www.youtube.com/channel/UCdEWZiXADV4ee27XDEhPK9Q' },
