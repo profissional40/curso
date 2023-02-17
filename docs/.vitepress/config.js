@@ -31,7 +31,12 @@ export default {
                     collapsed: true,
                     items: [
                         { text: 'Fundamentos', link: '/introduction' },
-                        { text: '07 Ferramentas da Qualidade', link: '/lean/quality/seven-tools/index' }
+                        { text: '07 Ferramentas da Qualidade',
+                          collapsed: true,
+                          items: [
+                            { text: 'Pareto', link: '/lean/quality/seven-tools/pareto' }
+                          ] 
+                        }
                     ]
                 },
                 { text: 'Logística', link: '/introduction' },
