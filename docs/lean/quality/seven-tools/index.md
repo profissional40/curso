@@ -14,6 +14,7 @@ Chart = Gráfico
 
 ## Fluxograma
 Logo mais
+![An image](./bg.png)
 
 ## Cartas de controle
 
