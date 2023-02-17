@@ -6,7 +6,7 @@ hero:
   text: O Manual Definitivo
   tagline: Seu guia para se tornar o profissional do futuro
   image:
-    src: /images/bg.png
+    src: curso/images/bg.png
     alt: VitePress
   actions:
     - theme: brand
