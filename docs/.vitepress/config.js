@@ -1,7 +1,6 @@
 export default {
     title: 'Profissional 4.0',
     description: 'Guia de como se transformar no profissional do futuro',
-    base: 'profissional40',
     themeConfig: {
         logo: '/images/bg.png',
         outlineTitle: 'Nesta Página',

@@ -7,16 +7,10 @@ Chart = Gráfico
 :::
 
 ## Diagrama de Pareto
-<iframe 
-    width="100%" 
-    height="300em" 
-    src="https://www.youtube.com/embed/m32O0obtVWs" 
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    allowfullscreen>
-</iframe>
 
-![video](https://www.youtube.com/watch?v=zNzZ1PfUDNk)
+::: tip Videos
+[YouTube Video](https://www.youtube.com/embed/m32O0obtVWs)
+:::
 
 ## Fluxograma
 Logo mais
