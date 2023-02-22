@@ -4,6 +4,7 @@ export default {
     themeConfig: {
         logo: '/bg.png',
         outlineTitle: 'Nesta Página',
+        search: true,
         nav: [
           { text: 'YouTube', link: 'https://www.youtube.com/channel/UCdEWZiXADV4ee27XDEhPK9Q' },
           { text: 'Github', link: 'https://github.com/' }
