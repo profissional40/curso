@@ -1,7 +1,6 @@
 export default {
     title: 'Profissional 4.0',
     description: 'Guia de como se transformar no profissional do futuro',
-    base: '/curso/',
     themeConfig: {
         logo: '/bg.png',
         outlineTitle: 'Nesta Página',
@@ -11,7 +10,7 @@ export default {
         ],
         sidebar: [
             {
-                text: 'Leia-me',
+                text: 'Página Inicial',
                 link: '/complete'
             },
           {
@@ -34,7 +33,8 @@ export default {
                         { text: '07 Ferramentas da Qualidade',
                           collapsed: true,
                           items: [
-                            { text: 'Pareto', link: '/lean/quality/seven-tools/pareto' }
+                            { text: 'Pareto', link: '/lean/quality/seven-tools/pareto' },
+                            { text: 'Espinha de Peixe', link: '/lean/quality/seven-tools/ishikawa' }
                           ] 
                         }
                     ]
