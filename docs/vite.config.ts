@@ -4,7 +4,7 @@ import { defineConfig } from "vite";
 
 //default options
 var options = {
-  previewLength: 62,
+  previewLength: 40,
   buttonLabel: "Procurar",
   placeholder: "Procurar Documentação",
 };
