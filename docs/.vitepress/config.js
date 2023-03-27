@@ -4,6 +4,8 @@ export default {
     themeConfig: {
         logo: '/bg.png',
         outlineTitle: 'Nesta Página',
+        darkModeSwitchLabel: 'Modo Escuro',
+        returnToTopLabel: 'Voltar ao topo',
         search: true,
         nav: [
           { text: 'YouTube', link: 'https://www.youtube.com/channel/UCdEWZiXADV4ee27XDEhPK9Q' },

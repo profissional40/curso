@@ -1,3 +1,8 @@
+---
+marp: true
+theme: dracula
+---
+
 # Princípio de Pareto
 
 ::: details Vocabulário
@@ -6,7 +11,11 @@ Dashboard = Vários gráficos agrupados em uma tela
 Chart = Gráfico
 :::
 
+---
+
 ## Diagrama de Pareto
+
+<a href="https://www.youtube.com/embed/BsgMxLaCPXI">Link para o vídeo</a>
 
 <div style="display: flex; align-items: flex-start; gap: 10px;">
     <iframe 
