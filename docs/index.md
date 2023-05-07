@@ -22,7 +22,7 @@ features:
     details: Uma abordagem de gestão que visa a eliminação de desperdícios e a melhoria contínua dos processos, com foco na criação de valor para o cliente.
     link: /lean/index
   - icon: 🧪
-    title: Ciência de Dados
+    title: Análise, Ciência de Dados e Inteligência Artificial
     details: Aprenda a transformar dados em informação útil para a tomada de decisão em diferentes campos, como negócios, saúde, finanças, entre outros.
     link: /science/index
   - icon: 🧠

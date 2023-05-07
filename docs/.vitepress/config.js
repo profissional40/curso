@@ -53,6 +53,7 @@ export default {
             text: 'Ciência de Dados',
             collapsed: true,
             items: [
+              { text: 'Introdução', link: '/science/index' },
               { text: 'Eng de Dados', link: '/introduction' },
               { text: 'Análise de Dados', link: '/getting-started' },
               { text: 'Ciência de Dados', link: '/introduction' },
