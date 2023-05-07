@@ -1,7 +1,3 @@
----
-marp: true
-theme: dracula
----
 # Análise, Ciência de Dados e Inteligência Artificial
 
 ## Importância
@@ -68,8 +64,8 @@ Nós como usuários geramos dados, que podem ser armazenados em banco de dados, 
 Esses dados podem ser armazenados tanto localmente (computador, celular, etc) quando em servidores.
 
 
-![O que são dados](dados.jpg)
-<p>Melhor visualização: <a href="dados.pdf" target="_blank">PDF</a></p>
+![O que são dados](data.jpg)
+<p>Melhor visualização: <a href="data.pdf" target="_blank">PDF</a></p>
 
 Para aqueles profissionais que desejem se aprofundar mais neste processo,
 sugerimos conferir a seção sobre [Engenharia de Dados](/science/data-engineering)
