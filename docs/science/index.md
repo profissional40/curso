@@ -68,7 +68,7 @@ Esses dados podem ser armazenados tanto localmente (computador, celular, etc) qu
 <p>Melhor visualização: <a href="data.pdf" target="_blank">PDF</a></p>
 
 Para aqueles profissionais que desejem se aprofundar mais neste processo,
-sugerimos conferir a seção sobre [Engenharia de Dados](/science/data-engineering)
+sugerimos conferir a seção sobre Engenharia de Dados.
 
 
 ## Análise e Ciência de Dados

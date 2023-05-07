@@ -1,8 +1,3 @@
----
-marp: true
-theme: dracula
----
-
 # Diagrama Espinha de Peixe
 
 > Origem, Objetivo, Exemplos, VideoAula
