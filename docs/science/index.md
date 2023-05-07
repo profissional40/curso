@@ -68,7 +68,7 @@ Nós como usuários geramos dados, que podem ser armazenados em banco de dados, 
 Esses dados podem ser armazenados tanto localmente (computador, celular, etc) quando em servidores.
 
 
-![O que são dados](/docs/science/dados.jpg "O Que são dados")
+![O que são dados](dados.jpg)
 <p>Melhor visualização: <a href="dados.pdf" target="_blank">PDF</a></p>
 
 Para aqueles profissionais que desejem se aprofundar mais neste processo,
